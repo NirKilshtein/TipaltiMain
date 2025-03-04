@@ -16,18 +16,23 @@ This project is a test automation framework using Playwright for end-to-end test
 
 ## Setup
 
-1. Install dependencies:
+1. Clone the repository:
+   ```
+   git clone https://github.com/NirKilshtein/TipaltiMain.git
+   ```
+
+2. Install dependencies:
    ```
    npm install
    ```
 
-2. Install Playwright and all browsers:
+3. Install Playwright and all browsers:
    
    npx playwright install
    npx playwright install --with-deps
    
 
-3. Create a `.env` file in the `config` directory with the following content:
+4. Create a `.env` file in the `config` directory with the following content:
 
    userid=your_user_id
    password=your_password
