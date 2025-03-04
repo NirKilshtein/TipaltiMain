@@ -1,0 +1,58 @@
+2025-03-04T10:04:27.841Z [INFO]: Logger initialized - writing to C:\Users\Nirki\Downloads\Tipalti-main\logs\E2E Automation_2025-03-04.log
+2025-03-04T10:04:27.843Z [INFO]: Environment: development
+2025-03-04T10:04:27.845Z [DEBUG]: Debug logging is enabled
+2025-03-04T10:04:27.846Z [INFO]: Starting test setup
+2025-03-04T10:04:27.848Z [INFO]: Cleaning previous test results
+2025-03-04T10:04:27.862Z [INFO]: Test setup complete
+2025-03-04T10:04:30.668Z [INFO]: Logger initialized - writing to C:\Users\Nirki\Downloads\Tipalti-main\logs\E2E Automation_2025-03-04.log
+2025-03-04T10:04:30.670Z [INFO]: Logger initialized - writing to C:\Users\Nirki\Downloads\Tipalti-main\logs\E2E Automation_2025-03-04.log
+2025-03-04T10:04:30.704Z [INFO]: Logger initialized - writing to C:\Users\Nirki\Downloads\Tipalti-main\logs\E2E Automation_2025-03-04.log
+2025-03-04T10:04:30.670Z [INFO]: Environment: development
+2025-03-04T10:04:30.672Z [DEBUG]: Debug logging is enabled
+2025-03-04T10:04:30.672Z [INFO]: Environment: development
+2025-03-04T10:04:30.673Z [DEBUG]: Debug logging is enabled
+2025-03-04T10:04:30.707Z [INFO]: Environment: development
+2025-03-04T10:04:30.708Z [DEBUG]: Debug logging is enabled
+2025-03-04T10:04:38.648Z [INFO]: clicking on menu
+2025-03-04T10:04:38.676Z [INFO]: clicking on menu
+2025-03-04T10:04:38.738Z [INFO]: clicking on login button : getByRole('link', { name: 'Menu' })
+2025-03-04T10:04:38.800Z [INFO]: clicking on menu
+2025-03-04T10:04:38.748Z [INFO]: clicking on login button : getByRole('link', { name: 'Menu' })
+2025-03-04T10:04:38.816Z [INFO]: clicking on login button : getByRole('link', { name: 'Menu' })
+2025-03-04T10:04:39.855Z [INFO]: get menu items
+2025-03-04T10:04:39.892Z [INFO]: get menu items
+2025-03-04T10:04:39.891Z [INFO]: get menu items
+2025-03-04T10:04:39.947Z [INFO]: getting all menu items: Home,Kika,Lychee,Kimba,Close
+2025-03-04T10:04:39.989Z [INFO]: getting all menu items: Home,Kika,Lychee,Kimba,Close
+2025-03-04T10:04:39.948Z [INFO]: validate menu items
+2025-03-04T10:04:39.958Z [INFO]: validating menu items: Home,Kika,Lychee,Kimba,Close
+2025-03-04T10:04:39.986Z [INFO]: click on kimba menu item
+2025-03-04T10:04:39.988Z [INFO]: clicking on menu item: kimba
+2025-03-04T10:04:39.988Z [INFO]: clicking on menu item: kimba
+2025-03-04T10:04:39.990Z [INFO]: validate menu items
+2025-03-04T10:04:39.991Z [INFO]: validating menu items: Home,Kika,Lychee,Kimba,Close
+2025-03-04T10:04:40.020Z [INFO]: click on Lychee menu item
+2025-03-04T10:04:40.023Z [INFO]: clicking on menu item: Lychee
+2025-03-04T10:04:40.023Z [INFO]: clicking on menu item: Lychee
+2025-03-04T10:04:40.187Z [INFO]: getting all menu items: Home,Kika,Lychee,Kimba,Close
+2025-03-04T10:04:40.188Z [INFO]: validate menu items
+2025-03-04T10:04:40.189Z [INFO]: validating menu items: Home,Kika,Lychee,Kimba,Close
+2025-03-04T10:04:40.206Z [INFO]: click on kika menu item
+2025-03-04T10:04:40.207Z [INFO]: clicking on menu item: Kika
+2025-03-04T10:04:40.207Z [INFO]: clicking on menu item: Kika
+2025-03-04T10:04:40.809Z [INFO]: Fill contact form
+2025-03-04T10:04:40.815Z [INFO]: filling contact form with name: Nir Kilshtein, email: Nirkilshtein@gmail.com, message: i want to adopt a dog Lychee
+2025-03-04T10:04:41.031Z [INFO]: Fill contact form
+2025-03-04T10:04:41.032Z [INFO]: filling contact form with name: Nir Kilshtein, email: Nirkilshtein@gmail.com, message: i want to adopt a dog Kika
+2025-03-04T10:04:42.009Z [INFO]: Fill contact form
+2025-03-04T10:04:42.009Z [INFO]: filling contact form with name: Nir Kilshtein, email: Nirkilshtein@gmail.com, message: i want to adopt a dog kimba
+2025-03-04T10:04:43.057Z [INFO]: Form send successfully
+2025-03-04T10:04:43.131Z [INFO]: Form send successfully for 
+2025-03-04T10:04:43.230Z [INFO]: Form send successfully
+2025-03-04T10:04:46.612Z [INFO]: Starting global teardown
+2025-03-04T10:04:46.614Z [INFO]: Generating Allure report
+2025-03-04T10:05:00.100Z [INFO]: Allure report generated successfully
+2025-03-04T10:05:00.102Z [INFO]: Opening Allure report
+2025-03-04T10:07:01.227Z [ERROR]: Failed to generate Allure report: Command failed: npx allure open C:\Users\Nirki\Downloads\Tipalti-main\allure-report
+2025-03-04T10:07:01.229Z [INFO]: Global teardown completed
+2025-03-04T10:07:01.231Z [INFO]: Allure report is ready for viewing
